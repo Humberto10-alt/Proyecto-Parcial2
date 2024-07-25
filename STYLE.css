@@ -1,0 +1,272 @@
+*{
+    margen: 0px;
+    relleno: 5px;
+}
+
+title{
+    color:#e6cfd8;
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+nav{
+    width: 300px;
+    border: 0 solid rgb(0, 0, 0);
+}
+
+.menu2{
+    list-style: none;
+    padding: 0;
+    margin:0;
+}
+
+.menu2 li{
+    margin-bottom: 2px;
+}
+
+.menu2 a{
+    color: black;
+    background-color:moccasin;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+}
+
+.menu a:hover{
+    background-color: #a02659;
+}
+
+footer{
+    color: rgb(233, 161, 197);
+    font-family: Verdana;
+    font-size: 10px;
+    align-items: middle;
+}
+
+/* Nav Boton Regresar*/
+.regresar{
+    list-style: none;
+    padding: 0;
+    margin:0;
+}
+
+.regresar li{
+    margin-bottom: 1px;
+}
+
+.regresar a{
+    color: white;
+    background-color: #333;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+}
+
+.regresar a:hover{
+background-color: #575757;
+}
+*{
+    margin: 0px;
+    padding: 5px;
+}
+
+#tituloP{
+    color:rgb(245, 245, 241);
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+nav{
+    width: 300px;
+    border: 0px solid black;
+}
+
+.menu{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu li{
+    margin-bottom: 1px;
+}
+
+.menu a{
+    color: white;
+    background-color: #333;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+}
+
+.menu a:hover{
+    background-color: #575757;
+}
+
+footer{
+    color: rgb(255, 255, 255);
+    font-family: Verdana;
+    font-size: 10px;
+    align-items: middle;
+}
+
+/* Nav Boton Regresar*/
+.regresar{
+    list-style: none;
+    padding: 0;
+    margin:0;
+}
+
+.regresar li{
+    margin-bottom: 1px;
+}
+
+.regresar a{
+    color: white;
+    background-color: #333;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+}
+
+.regresar a:hover{
+background-color: #575757;
+}
+*{
+    margin: 0px;
+    padding: 5px;
+}
+
+#tituloP{
+    color:rgb(245, 245, 241);
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+nav{
+    width: 300px;
+    border: 0px solid black;
+}
+
+.menu{
+    list-style: none;
+    padding: 0;
+    margin:0;
+}
+
+.menu li{
+    margin-bottom: 1px;
+}
+
+.menu a{
+    color: rgb(252, 250, 250);
+    background-color: #ac1f65;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+}
+
+.menu a:hover{
+    background-color: #575757;
+}
+
+footer{
+    color: white;
+    font-family: Verdana;
+    font-size: 10px;
+    align-items: middle;
+}
+
+/* Nav Boton Regresar*/
+.regresar{
+    list-style: none;
+    padding: 0;
+    margin:0;
+}
+
+.regresar li{
+    margin-bottom: 1px;
+}
+
+.regresar a{
+    color:moccasin;
+    background-color: #333;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+}
+
+.regresar a:hover{
+background-color: #575757;
+}
+*{
+    margin: 0px;
+    padding: 5px;
+}
+
+#tituloP{
+    color:rgb(247, 247, 234);
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+nav{
+    width: 300px;
+    border: 0px solid rgb(110, 26, 61);
+}
+
+.menu{
+    list-style: none;
+    padding: 0;
+    margin:0;
+}
+
+.menu li{
+    margin-bottom: 1px;
+}
+
+.menu a{
+    color: white;
+    background-color: #333;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+}
+
+.menu a:hover{
+    background-color: #575757;
+}
+
+footer{
+    color: rgb(14, 13, 13);
+    font-family: Verdana;
+    font-size: 13px;
+    align-items: middle;
+}
+
+/* Nav Boton Regresar*/
+.regresar{
+    list-style: none;
+    padding: 0;
+    margin:0;
+}
+
+.regresar li{
+    margin-bottom: 1px;
+}
+
+.regresar a{
+    color: black;
+    background-color:moccasin;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+}
+
+.regresar a:hover{
+background-color: #575757;
+}
